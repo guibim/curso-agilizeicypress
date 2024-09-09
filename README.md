@@ -7,12 +7,13 @@ Nesse exercício realizei testes automatizados dentro do site  https://devfinanc
 
 ## Estrutura de Testes realizados:
 O teste foi realizado com apenas um unico describe para facilitar o aprendizado, pórem, foi utilizado 2 maneiras diferentes de asserts para confirmar a transação financeira.
--1. Transações
+
+- 1. Transações <br />
 
 
 
-Gherkin - BDD
-1. Transações
+# Gherkin - BDD
+1. Transações <br />
 - Given que o usuário acessa a página fornecida
 - When o usuário registra uma transação financeira
 - Then a Transação é cadastrada com sucesso, alterando os saldos.
